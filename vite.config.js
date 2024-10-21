@@ -8,6 +8,8 @@ export default defineConfig({
     org: "spit-1n",
     project: "javascript-react"
   })],
+  base: '/iphone15-website/',
+  
 
   build: {
     sourcemap: true
